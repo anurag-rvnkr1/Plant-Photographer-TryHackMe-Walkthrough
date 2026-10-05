@@ -1,6 +1,5 @@
-title: "TryHackMe CTF"
-description: "Professional CTF documentation."
-
+title: "Plant Photographer — TryHackMe"
+description: "Professional penetration testing documentation for the Plant Photographer room."
 theme: jekyll-theme-primer
 
 plugins:
